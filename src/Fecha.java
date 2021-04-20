@@ -18,7 +18,7 @@ public class Fecha {
 		this.dia=Integer.parseInt(separar[0]);
 		this.mes=Integer.parseInt(separar[1]);
 		this.ano=Integer.parseInt(separar[2]);
-		
+		 System.out.println("Hola Muundo");
 		
 	}
 }
