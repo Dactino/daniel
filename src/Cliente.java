@@ -56,6 +56,8 @@ public class Cliente {
 		log.fine("Identificador del cliente: "+this.id);
 		log.fine("———————————————————————————————————————————————");
 		log.fine("");
+		System.out.println("Hola Muundo");
 	}
+	
 	
 }
